@@ -1,8 +1,6 @@
 # How to contribute
-
-Your contributions to the Stellar network will help improve the world’s financial
-infrastructure, faster.
-
+# Your contributions to the Stellar network will help improve the world’s financial
+# software_listening.hml.md  
 We want to make it as easy as possible to contribute changes that
 help the Stellar network grow and thrive. There are a few guidelines that we
 ask contributors to follow so that we can merge your changes quickly.
@@ -44,18 +42,12 @@ an issue number.
 
 # Additional Resources
 
-* [Bug tracker (Github)](https://github.com/stellar/interstellar-network/issues)
-* <a href="https://docs.google.com/forms/d/1g7EF6PERciwn7zfmfke5Sir2n10yddGGSXyZsq98tVY/viewform?usp=send_form">Contributor License Agreement</a>
-* [Explore the API](http://docs.stellarhorizon.apiary.io/)
-* [Readme for interstellar-network](https://github.com/stellar/interstellar-network/blob/master/README.md)
-* #stellar-dev IRC channel on freenode.org
-* #dev channel on [Slack](http://slack.stellar.org)
+# * <a href="https://docs.google.com/forms/d/1g7EF6PERciwn7zfmfke5Sir2n10yddGGSXyZsq98tVY/viewform?usp=send_form">Contributor License Agreement</a>
+# * [Readme for interstellar-network](https://github.com/stellar/interstellar-network/blob/master/README.md)
+# * #dev channel on [Slack](http://www.slack.stellar.org)
 
 
-This document is inspired by:
-
-https://github.com/puppetlabs/puppet/blob/master/CONTRIBUTING.md 
-
-https://github.com/thoughtbot/factory_girl_rails/blob/master/CONTRIBUTING.md 
-
-https://github.com/rust-lang/rust/blob/master/CONTRIBUTING.md
+# 
+# 
+# 
+# 
