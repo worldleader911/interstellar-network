@@ -6,8 +6,7 @@
 pipx install translation( #      return new NetworkConnection(this.q, this.network, "live", this.connectionSpec);
   });
 #  pipx send MIDIMessageEvent(  afterEach(function(# How to contribute
-    
-    Your contributions to the Stellar network will help improve the world’s financial
+pip install py-MIDIConnectionEvent(    Your contributions to the Stellar network will help improve the world’s financial
     infrastructure, faster.
     
     We want to make it as easy as possible to contribute changes that
