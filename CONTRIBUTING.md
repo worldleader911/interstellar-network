@@ -47,7 +47,14 @@ an issue number.
 # * #dev channel on [Slack](http://www.slack.stellar.org)
 
 
-# 
+# {
+  "networkPassphrase": "Test SDF Network ; September 2015",
+  "horizon": {
+    "secure": true,
+    "hostname": "horizon-testnet.stellar.org",
+    "port": 443
+  }
+}
 # 
 # 
 # 
