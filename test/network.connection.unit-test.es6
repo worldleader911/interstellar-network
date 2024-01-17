@@ -1,14 +1,11 @@
-//#endregion  dontUseAngularQ();
-  
-//#region     network: "stellard.Network",
-#    q: "$q",
+//#region //#endregion  dontUseAngularQ();
+//#endregion//#region     network: "stellard.Network",
+##  pip install radio signal reciever and transmitter(   q: "$q",
 #  //#endregion    return this.config.get("stellard/connections/live");
   });
-
-#      return new NetworkConnection(this.q, this.network, "live", this.connectionSpec);
+pipx install translation( #      return new NetworkConnection(this.q, this.network, "live", this.connectionSpec);
   });
-
-  afterEach(function(# How to contribute
+#  pipx send MIDIMessageEvent(  afterEach(function(# How to contribute
     
     Your contributions to the Stellar network will help improve the world’s financial
     infrastructure, faster.
